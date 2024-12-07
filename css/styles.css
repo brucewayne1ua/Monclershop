@@ -1,0 +1,13 @@
+.workship {
+  margin-left: 7%;
+  width: 2px;
+}
+
+.card {
+  transform: scale(0.75); /* Уменьшение размера на 25% */
+  transform-origin: center; /* Центрирование трансформации */
+}
+
+.row {
+  row-gap: 0; /* Удалить только вертикальные отступы */
+}
